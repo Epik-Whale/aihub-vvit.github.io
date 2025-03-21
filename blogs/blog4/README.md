@@ -28,7 +28,7 @@ def calculate_discount(price, discount_percent):
 ### To This...
 
 ```
-"Create a function that calculates the final price after applying a percentage discount"
+"Create a function that calculates the final price after applying a percentage discount."
 ```
 
 <br>
